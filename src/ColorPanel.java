@@ -13,6 +13,10 @@ import javax.swing.border.EtchedBorder;
 public class ColorPanel extends JPanel
 {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	public static PaintData data = null;
 
 	public ColorPanel(PaintData data)
